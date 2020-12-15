@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Ingrid Fields
 
-You can use the [editor on GitHub](https://github.com/ijfields/digital-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Application Developer Systems Analyst
 
-### Markdown
+Tacoma Public Utilities Tacoma, WA November ’92 – 2010
+- Provide cost effective solutions using modern development tools and methods
+- Gather requirements and create project plans
+- Provide management with reports and timely feedback regarding Enterprise mission
+critical systems
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Software Tester
 
-# Header 1
-## Header 2
-### Header 3
+Volt Technical Services (Aldus Corporation) Seattle, WA 5/91 – 6/92
+- Created and ran test scripts for Presswise, a Macintosh prepress software application
+- Created bug reports
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Desktop Publishing
+Various Companies     Bay Area, CA           1985 – 1991
 
-**Bold** and _Italic_ and `Code` text
+### Student Teacher
+Far West High School   Oakland, CA          1982 - 1984
 
-[Link](url) and ![Image](src)
-```
+## Education	
+Southern University of Illinois, Carbondale  -
+Workforce Education and Training (2006 – current)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+University of California, Berkeley 
+Electrical Engineering and Computer Science (1984 -1987)
 
-### Jekyll Themes
+## Expertise	
+Defining solutions for integrating complex system, computer programming, training, troubleshooting
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ijfields/digital-resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
